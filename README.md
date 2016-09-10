@@ -10,6 +10,9 @@
 
 
 图像识别时缺少opencvcore290.dll
+
 1.下载emgucv注意其版本（在sourceforge中下载emgucv2.9.0.1922，emgucv2.9.0.1922资源在2.4.9-beta目录下）
+
 2.安装
+
 3.将bin中x86文件夹复制到项目的debug文件夹下
